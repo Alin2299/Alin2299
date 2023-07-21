@@ -14,7 +14,7 @@ I'm a 2nd year Computer Science student at the University of Waikato, NZ, with a
 - Learning languages (programming and natural)
 - Listening to music
 - Travelling
-- Learning in general (E.g learning about politics, economics, history)
+- Learning in general (E.g learning about politics, economics, history etc)
 
 ## 🌱 I’m currently learning ...
 - Game Development
