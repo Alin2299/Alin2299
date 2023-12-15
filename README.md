@@ -18,6 +18,8 @@ I'm a 2nd year Computer Science student at the University of Waikato, NZ, with a
 
 ## 🌱 I’m currently learning ...
 - Game Development
+- Machine Learning
+- Cybersecurity
 
 ## 🥇 Qualifications
 Bachelor of Science (2022-Present), with a Major in Computer Science and a Minor in Data Analytics
