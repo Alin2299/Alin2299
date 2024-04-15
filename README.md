@@ -23,10 +23,11 @@ Some of my (academic) interests include:
 - Travelling
 - Learning in general (E.g learning about politics, economics, history etc)
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning/experimenting with ...
 - Game Development
-- Machine Learning
-- Cybersecurity and Internet-Scanning
+- Machine Learning and Kaggle
+- AWS
+- Langchain
 
 ## 🥇 Qualifications
 Bachelor of Science (2022-Present), with a Major in Computer Science and a Minor in Data Analytics
