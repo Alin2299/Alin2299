@@ -12,17 +12,6 @@ Some of my (academic) interests include:
 - Software Development and Game Development
 - Bioinformatics
 
-## Personal Information
-🎮 Interests:
-- Video gaming
-- Watching YouTube
-- Trying new things
-- Playing Table Tennis
-- Learning languages (programming and natural)
-- Listening to music
-- Travelling
-- Learning in general (E.g learning about politics, economics, history etc)
-
 ## 🌱 I’m currently learning/experimenting with ...
 - Game Development
 - Machine Learning and Kaggle
@@ -48,6 +37,16 @@ Bachelor of Science (2022-Present), with a Major in Computer Science and a Minor
 [![Alin2299's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alin2299&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alin2299&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+## Personal Information
+🎮 Interests:
+- Video gaming
+- Watching YouTube
+- Trying new things
+- Playing Table Tennis
+- Learning languages (programming and natural)
+- Listening to music
+- Travelling
+- Learning in general (E.g learning about politics, economics, history etc)
 
 <!--
 - 🔭 I’m currently working on ...
