@@ -32,6 +32,8 @@ Bachelor of Science (2022-Present), with a Major in Computer Science and a Minor
 - R and R Studio
 - Git
 - Linux and BASH
+- JavaScript
+- HTML and CSS
 
 ## 💹 Github Stats
 [![Alin2299's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alin2299&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
