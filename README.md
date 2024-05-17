@@ -3,7 +3,8 @@
 ##
 
 ## About Me
-I'm a 3rd year Computer Science student at the University of Waikato, NZ, with a passion for continuous learning/improvement, including learning new technologies and skills.
+I am a 3rd year Computer Science student at the University of Waikato, New Zealand, with a passion for continuous learning/improvement, including learning new technologies and skills.\
+I am also passionate about solving problems and contributing to knowledge and research, and overall having a positive impact on the world.
 
 Some of my (academic) interests include:
 - Political Science
@@ -16,10 +17,9 @@ Some of my (academic) interests include:
 - Game Development
 - Machine Learning and Kaggle
 - AWS
-- Langchain
 
 ## 🥇 Qualifications
-Bachelor of Science (2022-Present), with a Major in Computer Science and a Minor in Data Analytics
+Bachelor of Science with Honours in Computer Science (2022-Present)
 
 ## 💻 My Skills
 - C#
