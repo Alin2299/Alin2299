@@ -7,10 +7,10 @@ I am a 3rd year Computer Science student at the University of Waikato, New Zeala
 I am also passionate about solving problems and contributing to knowledge and research, and overall having a positive impact on the world.
 
 Some of my (academic) interests include:
-- Political Science
+- Political Science and Public Policy
 - Cybersecurity
-- Artificial Intelligence and Machine Learning
-- Software Development and Game Development
+- Artificial Intelligence/Machine Learning and Data Analysis
+- Software Development/Engineering
 - Bioinformatics
 
 ## 🌱 I’m currently learning/experimenting with ...
