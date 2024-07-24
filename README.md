@@ -3,14 +3,14 @@
 ##
 
 ## About Me
-I am a 3rd year Computer Science student at the University of Waikato, New Zealand, with a passion for continuous learning/improvement, including learning new technologies and skills.\
+I am a 3rd year Computer Science student at the University of Waikato, New Zealand, with a passion for continuous learning/improvement, including staying informed/learning about new technologies.\
 I am also passionate about solving problems and contributing to knowledge and research, and overall having a positive impact on the world.
 
 Some of my (academic) interests include:
-- Political Science and Public Policy
-- Cybersecurity
-- Artificial Intelligence/Machine Learning and Data Analysis
 - Software Development/Engineering
+- Artificial Intelligence/Machine Learning and Data Analysis
+- Cybersecurity
+- Political Science and Public Policy
 - Bioinformatics
 
 ## 🌱 I’m currently learning/experimenting with ...
