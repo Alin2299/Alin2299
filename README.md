@@ -5,7 +5,7 @@
 ## About Me
 I am a 4th year Computer Science student at the University of Waikato, New Zealand, with a passion for continuous learning and improvement, including staying informed about new technologies and developments, and I’m eager to apply my skills to real-world problem-solving and contribute to meaningful work.
 
-My interests span various fields, including Data and Policy Analysis, Artificial Intelligence, and Security, and I am especially interested in exploring how technology intersects with areas such as Politics, Law, International Relations, and Bioinformatics.
+My interests span various fields, including Data and Policy Analysis, Artificial Intelligence, and Cybersecurity, and I am especially interested in exploring interdisciplinary approaches; for example, how technology intersects with areas such as Politics, Law, International Relations, and Bioinformatics.
 
 I am also passionate about community and civic engagement, having participated in numerous volunteering opportunities, including with my current involvement with a New Zealand political party and the Waikato Political Science Students Association.
 
