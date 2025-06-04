@@ -3,18 +3,11 @@
 ##
 
 ## About Me
-I am a 4th year Computer Science student at the University of Waikato, New Zealand, with a passion for continuous learning and improvement, including staying informed about new technologies.
+I am a 4th year Computer Science student at the University of Waikato, New Zealand, with a passion for continuous learning and improvement, including staying informed about new technologies and developments, and I’m eager to apply my skills to real-world problem-solving and contribute to meaningful work.
 
-I’m eager to apply my skills to real-world problem-solving and contribute to meaningful work such as research, as demonstrated by my experience completing a Summer Research Project at the University of Waikato.
+My interests span various fields, including Data and Policy Analysis, Artificial Intelligence, and Security, and I am especially interested in exploring how technology intersects with areas such as Politics, Law, International Relations, and Bioinformatics.
 
-My interests span various fields, including Data Analysis, AI/Machine Learning, and Software Development, and I also enjoy exploring how these intersect with areas such as Politics, Law, and Bioinformatics.
-
-I have also participated in numerous volunteering opportunities, including with my current involvement with a New Zealand political party.
-
-## 🌱 I’m currently learning/experimenting with ...
-- Game Development
-- Machine Learning and Kaggle
-- AWS
+I am also passionate about community and civic engagement, having participated in numerous volunteering opportunities, including with my current involvement with a New Zealand political party and the Waikato Political Science Students Association.
 
 ## 🥇 Qualifications
 Bachelor of Science with Honours in Computer Science (2022-Present)
@@ -33,6 +26,7 @@ Bachelor of Science with Honours in Computer Science (2022-Present)
 - JavaScript
 - HTML and CSS
 - AWS
+- Machine and Deep Learning
 
 ## 💹 Github Stats
 [![Alin2299's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alin2299&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
