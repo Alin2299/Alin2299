@@ -39,13 +39,12 @@ Bachelor of Science with Honours in Computer Science (2022-Present)
 ## Personal Information
 🎮 Interests:
 - Video gaming
-- Watching YouTube
 - Trying new things
 - Playing Table Tennis and Squash
-- Learning languages (programming and natural)
+- Learning languages
 - Listening to music
 - Travelling and outdoors activities like hiking
-- Learning in general (E.g learning about politics, economics, history etc)
+- Reading and learning in general (E.g learning about politics, economics, history, philosophy etc)
 
 <!--
 - 🔭 I’m currently working on ...
