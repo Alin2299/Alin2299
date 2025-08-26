@@ -22,7 +22,7 @@ Bachelor of Science with Honours in Computer Science (2022-Present)
 - Version control & OS – Git, GitHub, Linux, BASH
 - Cloud & deployment – AWS, basic Docker usage
 - Electronics & embedded systems – Exposure to microcontrollers, circuit design, electricity concepts, Verilog
-- Other – Basic ML workflows, model evaluation, research documentation
+- Other – Basic ML workflows, model evaluation, research documentation, applying AI/technology to biomedicine
 
 ### Soft and Transferable Skills
 - Clear communication
