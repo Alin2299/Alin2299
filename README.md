@@ -5,7 +5,7 @@
 ## About Me
 I’m a 5th year student at the University of Waikato, New Zealand, with a passion for continuous learning, real-world problem-solving, and meaningful contribution. I hold a BSc with a Major in Computer Science, a Minor in Data Analytics, as well as a BSc with Honours in Computer Science, and I’m currently broadening my perspective and skills through studying social science papers, including in economics, politics and policy, and history.
 
-My primary interests lie in data analysis, modelling, and interdisciplinary research and thinking, with a focus on integrating mixed methods and diverse perspectives and skills into understanding complex issues. I'm particularly interested in applying these skills across sectors such as consulting, government, financial institutions, and think-tanks. I also have a strong technical background in areas such as cybersecurity, software development, and embedded systems.
+My primary interests lie in data analysis, modelling, and interdisciplinary research and thinking, with a focus on integrating mixed methods and diverse perspectives and skills into understanding complex issues. I'm particularly interested in applying these skills across sectors such as consulting, government, financial institutions, and think-tanks. I also have a strong technical background in areas such as cybersecurity, AI/ML, software development, and embedded systems.
 
 Beyond my studies, I’m involved in leadership, volunteering, and student organisations, which reflects my commitment to community and civic engagement. Outside of my studies, I also enjoy travel, the outdoors, reading, gaming, and exploring new experiences and ideas.
 
