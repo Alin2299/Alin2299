@@ -3,14 +3,18 @@
 ##
 
 ## About Me
-I am a 4th year Computer Science student at the University of Waikato, New Zealand, with a passion for continuous learning and improvement, including staying informed about new technologies and developments, and I’m eager to apply my skills to real-world problem-solving and contribute to meaningful work.
+I’m a 5th year student at the University of Waikato, New Zealand, with a passion for continuous learning, real-world problem-solving, and meaningful contribution. I hold a BSc with a Major in Computer Science, a Minor in Data Analytics, as well as a BSc with Honours in Computer Science, and I’m currently broadening my perspective and skills through studying social science papers, such as in economics, politics and policy, and history.
 
-My interests span various fields, including Data and Policy Analysis, Artificial Intelligence, and Cybersecurity, and I am especially interested in exploring interdisciplinary approaches; for example, how technology intersects with areas such as Politics, Law, International Relations, and Bioinformatics.
+My primary interests lie in data analysis, modelling, and interdisciplinary research and thinking, with a focus on integrating mixed methods and diverse perspectives and skills into understanding complex issues. I'm particularly interested in applying these skills across sectors such as consulting, government, financial institutions, and think-tanks.
 
-I am also passionate about leadership and community/civic engagement, having participated in numerous volunteering opportunities and clubs at the university.
+Beyond my studies, I’m involved in leadership, volunteering, and student organisations, which reflects my commitment to community and civic engagement. Outside of my studies, I also enjoy travel, the outdoors, reading, gaming, and exploring new experiences and ideas.
 
 ## 🥇 Qualifications
-Bachelor of Science with Honours in Computer Science (2022-Present)
+Diploma in Social Sciences (Philosophy, Politics, and Economics, with Law and History) (Present)
+
+Bachelor of Science with Honours in Computer Science (2025-2025)
+
+Bachelor of Science, Major in Computer Science, Minor in Data Analytics (2022-2024)
 
 ## 💻 My Skills
 ### Technical Skills
@@ -40,11 +44,11 @@ Bachelor of Science with Honours in Computer Science (2022-Present)
 🎮 Interests:
 - Video gaming
 - Trying new things
-- Playing Table Tennis and Squash
+- Sports, such as squash and running
 - Learning languages
 - Listening to music
 - Travelling and outdoors activities like hiking
-- Reading and learning in general (E.g learning about politics, economics, history, philosophy etc)
+- Reading and learning in general
 
 <!--
 - 🔭 I’m currently working on ...
