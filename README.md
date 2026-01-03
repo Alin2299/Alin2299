@@ -36,9 +36,6 @@ Bachelor of Science, Major in Computer Science, Minor in Data Analytics (2022-20
 - Research and self-directed learning
 - Civic/community and political engagement
 
-## 💹 Github Stats
-[![Alin2299's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alin2299&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alin2299&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal Information
 🎮 Interests:
