@@ -26,7 +26,7 @@ Bachelor of Science, Major in Computer Science, Minor in Data Analytics (2022-20
 - Version control & OS – Git, GitHub, Linux, BASH
 - Cloud & deployment – AWS, basic Docker usage
 - Electronics & embedded systems – Exposure to microcontrollers, circuit design, electricity concepts, Verilog
-- Other – Basic ML workflows, model evaluation, research documentation, applying AI/technology to biomedicine
+- Other – Basic ML workflows, model evaluation, research documentation, applying AI/technology to biomedicine, malware analysis and general cybersecurity
 
 ### Soft and Transferable Skills
 - Clear communication
