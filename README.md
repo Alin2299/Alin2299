@@ -1,13 +1,12 @@
 ### Hi there, my name is Andrew Lin 👋
 
-##
-
 ## About Me
-I’m a 5th year student at the University of Waikato, New Zealand, with a passion for continuous learning, real-world problem-solving, and meaningful contribution. I hold a BSc with a Major in Computer Science, a Minor in Data Analytics, as well as a BSc with Honours in Computer Science, and I’m currently broadening my perspective and skills through studying social science papers, including in economics, politics and policy, and history.
+I’m a 5th year student at the University of Waikato, New Zealand, having previously completed a BSc (Major in Computer Science, Minor in Data Analytics), as well as a BSc (Hons) in Computer Science; I’m currently broadening my perspective through studying social science papers, such as economics, politics and policy, and history.
 
-My primary interests lie in data analysis, modelling, and interdisciplinary reasoning, with a focus on integrating mixed methods, systems thinking, and diverse perspectives and skills into understanding complex issues. I'm particularly interested in applying these skills across sectors such as consulting, government, financial institutions, and think-tanks. I also have a strong technical background in areas such as cybersecurity, AI/ML, software development, and embedded systems.
+My main interests lie in data analysis and modelling, and interdisciplinary reasoning, with a focus on integrating mixed methods, systems thinking, and diverse perspectives into understanding complex issues. 
+I'm particularly interested in applying these skills across consulting, government, financial institutions, and think-tanks. I also have a strong technical background in cybersecurity and the cloud, AI/ML, software development, and embedded systems.
 
-Beyond my studies, I’m involved in leadership, volunteering, and student organisations, which reflects my commitment to community and civic engagement. Outside of my studies, I also enjoy travel, the outdoors, reading, gaming, and exploring new experiences and ideas.
+Outside university, I’m involved in leadership, volunteering, and student organisations, and I also enjoy travel, the outdoors, reading, gaming, and exploring new experiences and ideas.
 
 ## 🥇 Qualifications
 Diploma in Social Sciences (Philosophy, Politics, and Economics, with Law and History) (Present)
