@@ -5,7 +5,7 @@ I’m a 5th-year student at the University of Waikato, New Zealand, with a focus
 
 I previously completed a BSc (Major in Computer Science, Minor in Data Analytics) and a BSc (Hons) in Computer Science, and I’m now complementing this technical background with social science study to better understand complex issues using systems thinking and mixed-methods research.
 
-I’m particularly interested in applying these skills across the public sector, consulting and research consultancies, think tanks, and financial institutions.
+I’m particularly interested in applying these skills across the public sector, consulting and research consultancies, think tanks, and financial institutions; my policy interests, in particular, include innovation and infrastructure, democracy, and workplace policy. 
 
 Outside university, I’m involved in leadership and volunteering through various organisations, and I enjoy travel, the outdoors, reading, and exploring new ideas.
 
