@@ -1,15 +1,16 @@
 ### Hi there, my name is Andrew Lin 👋
 
 ## About Me
-I’m a 5th year student at the University of Waikato, New Zealand, having previously completed a BSc (Major in Computer Science, Minor in Data Analytics), as well as a BSc (Hons) in Computer Science; I’m currently broadening my perspective through studying social science papers, such as economics, politics and policy, and history.
+I’m a 5th-year student at the University of Waikato, New Zealand, with a focus on data analysis, modelling, and interdisciplinary reasoning across economics, politics and policy, law, and history.
 
-My main interests lie in data analysis and modelling, and interdisciplinary reasoning, with a focus on integrating mixed methods, systems thinking, and diverse perspectives into understanding complex issues. 
-I'm particularly interested in applying these skills across consulting, government, financial institutions, and think-tanks. I also have a strong technical background in cybersecurity and the cloud, AI/ML, software development, and embedded systems.
+I previously completed a BSc (Major in Computer Science, Minor in Data Analytics) and a BSc (Hons) in Computer Science, and I’m now complementing this technical background with social science study to better understand complex issues using systems thinking and mixed-methods research.
 
-Outside university, I’m involved in leadership, volunteering, and student organisations, and I also enjoy travel, the outdoors, reading, gaming, and exploring new experiences and ideas.
+I’m particularly interested in applying these skills across the public sector, consulting and research consultancies, think tanks, and financial institutions.
+
+Outside university, I’m involved in leadership and volunteering through various organisations, and I enjoy travel, the outdoors, reading, and exploring new ideas.
 
 ## 🥇 Qualifications
-Diploma in Social Sciences (Philosophy, Politics, and Economics, with Law and History) (Present)
+Diploma in Social Sciences (Philosophy, Politics, and Economics) (2026-2026)
 
 Bachelor of Science with Honours in Computer Science (2025-2025)
 
