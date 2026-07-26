@@ -1,13 +1,13 @@
 ### Hi there, my name is Andrew Lin 👋
 
 ## About Me
-I’m a 5th-year student at the University of Waikato, New Zealand, with a focus on data analysis, modelling, and interdisciplinary reasoning across economics, politics and policy, law, and history.
+I’m a 5th-year student at the University of Waikato, New Zealand, with a focus on data analysis and interdisciplinary reasoning across politics and policy, economics, history, and law.
 
 I previously completed a BSc (Major in Computer Science, Minor in Data Analytics) and a BSc (Hons) in Computer Science, and I’m now complementing this technical background with social science study to better understand complex issues using systems thinking and mixed-methods research.
 
-I’m particularly interested in applying these skills across the public sector, consulting and research consultancies, and think tanks; my policy interests, in particular, include: tech and AI, innovation and infrastructure, democracy, and workplace policy. 
+I’m particularly interested in applying these skills across the public sector, consulting, and think tanks; my policy interests include tech and AI, innovation and infrastructure, democracy, and workplace reform.
 
-Outside university, I’m involved in leadership and volunteering through various organisations, and I enjoy travel, the outdoors, reading, and exploring new ideas.
+Outside university, I write a Substack on policy, culture, and society, go on day walks and overnight hikes, and serve in leadership roles with WPSSA, SPPANZ, and the Singularity AI Club.
 
 ## 🥇 Qualifications
 Diploma in Social Sciences (Philosophy, Politics, and Economics) (2026-2026)
